@@ -1,0 +1,11 @@
+{
+    "description": "CodeWithLLM-Updates",
+    "repo": "https://github.com/danvoronov/CodeWithLLM-Updates",
+    "owner": {
+        "username": "danvoronov",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "danvoronov.github.io"
+    }
+}
